@@ -16,12 +16,13 @@ I like writing tools to test the security of configuration management platforms 
 
 # My Videos/Talks
 - [Black Hat USA Arsenal 2022: SharpSCCM](https://www.youtube.com/watch?v=19F_Io1Tykg), with Duane Michael ([@subat0mik](https://github.com/subat0mik))
+- DEF CON Demo Labs 2022: SharpSCCM, with Duane Michael ([@subat0mik](https://github.com/subat0mik))
 - [MMSMOA 2023: Hack the Domain with Your Favorite Management Tool](https://mmsmoa.com/), guest speaker with [Sergey Chubarov](https://www.linkedin.com/in/schubarov/) and [Panu Saukko](https://x.com/panusaukko)
 - [Black Hat USA Arsenal 2023: SharpSCCM - Abusing Microsoft's C2 Framework](https://www.youtube.com/watch?v=uyI5rgR0D-s), with Diego Lomellini ([@DiLomSec1](https://x.com/DiLomSec1))
 - [Black Hat USA SpecterOps Booth 2023: SharpSCCM - Abusing Microsoft's C2 Framework](https://www.youtube.com/watch?v=Q8mEMFKscnk), with Diego Lomellini ([@DiLomSec1](https://x.com/DiLomSec1)]
 - [SO-CON 2024: Misconfiguration Manager - Overlooked and Overprivileged](https://www.youtube.com/watch?v=nvaOszFzXCQ), with Duane Michael ([@subat0mik](https://github.com/subat0mik))
 - [MMSMOA 2024: Defending the Castle, 5 Years Later](https://mmsmoa.com/), guest speaker with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
 - [Troopers 2024: Misconfiguration Manager - Overlooked and Overprivileged](https://www.youtube.com/watch?v=GhT6nPes1h0), with Duane Michael ([@subat0mik](https://github.com/subat0mik))
-- [Maestro:
+- [DEF CON Demo Labs 2024: Maestro - Abusing Intune for Lateral Movement Over C2](https://docs.google.com/presentation/d/1TGl-ASNo-1jXMOha9yd1CdPI-zCMt2UP/edit?usp=sharing&ouid=114582824289521319309&rtpof=true&sd=true)
 
 If you're interested in collaborating, please hit me up on Twitter ([@_Mayyhem](https://twitter.com/_Mayyhem)) or in the [BloodHoundGang Slack](http://ghst.ly/BHSlack)!
