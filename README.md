@@ -24,5 +24,9 @@ I like writing tools to test the security of configuration management platforms 
 - [MMSMOA 2024: Defending the Castle, 5 Years Later](https://mmsmoa.com/), guest speaker with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
 - [Troopers 2024: Misconfiguration Manager - Overlooked and Overprivileged](https://www.youtube.com/watch?v=GhT6nPes1h0), with Duane Michael ([@subat0mik](https://github.com/subat0mik))
 - [DEF CON Demo Labs 2024: Maestro - Abusing Intune for Lateral Movement Over C2](https://docs.google.com/presentation/d/1TGl-ASNo-1jXMOha9yd1CdPI-zCMt2UP/edit?usp=sharing&ouid=114582824289521319309&rtpof=true&sd=true)
+- [MMS Flamingo Edition 2024: Defending the Castle, 5 Years Later](https://mmsmoa.com/), guest speaker with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
+- [MMS Flamingo Edition 2024: Defense Against the Dark Arts, Stealing ConfigMgr Credentials](https://mmsmoa.com/), with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
+
+
 
 If you're interested in collaborating, please hit me up on Twitter ([@_Mayyhem](https://twitter.com/_Mayyhem)) or in the [BloodHoundGang Slack](http://ghst.ly/BHSlack)!
