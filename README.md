@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Chris. I'm currently a Product Architect for BloodHound and BloodHound Enterprise at [SpecterOps](https://specterops.io). Before that I was a Principal Consultant on the Adversary Simulation team conducting red team operations and pentests.
 
-I like writing tools to test the security of configuration management platforms like SCCM and Intune. I'm the author of [SharpSCCM](https://github.com/Mayyhem/SharpSCCM) and [Maestro](https://github.com/Mayyhem/Maestro), co-author of [Misconfiguration Manager](https://github.com/subat0mik/Misconfiguration-Manager) with Duane Michael ([@subat0mik](https://x.com/subat0mik)) and Garrett Foster ([unsigned_sh0rt](https://x.com/unsigned_sh0rt)), and have contributed to a few other offensive security tools.
+I like writing tools to test the security of configuration management platforms like SCCM and Intune. I'm the author of [SharpSCCM](https://github.com/Mayyhem/SharpSCCM) and [Maestro](https://github.com/Mayyhem/Maestro), co-author of [Misconfiguration Manager](https://github.com/subat0mik/Misconfiguration-Manager) with Duane Michael ([@subat0mik](https://x.com/subat0mik)) and Garrett Foster ([unsigned_sh0rt](https://x.com/unsigned_sh0rt)), and have contributed to a few other offensive security tools, including [SCCM Hunter](https://github.com/garrettfoster13/sccmhunter), [pxethiefy](https://github.com/csandker/pxethiefy), and [SCMKit](https://github.com/h4wkst3r/SCMKit).
 
 <a href="https://twitter.com/_Mayyhem">
   <img src="https://img.shields.io/twitter/follow/_Mayyhem?style=social" alt="@_Mayyhem on Twitter"/>
