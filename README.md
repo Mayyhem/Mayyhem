@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Chris. I'm currently a Product Architect for [BloodHound](https://specterops.io/bloodhound-community-edition/) and [BloodHound Enterprise](https://specterops.io/bloodhound-overview/) at [SpecterOps](https://specterops.io). Before that I was a Principal Consultant on the Adversary Simulation team conducting red team operations and pentests.
+I'm Chris. I'm currently a Senior Security Researcher at [SpecterOps](https://specterops.io) focusing on adding new attack paths and features to [BloodHound](https://specterops.io/bloodhound-community-edition/) and [BloodHound Enterprise](https://specterops.io/bloodhound-overview/). Before that I was a Principal Consultant on the Adversary Simulation team, leading and conducting red team operations and pentests.
 
-I like writing tools to test the security of configuration management platforms like SCCM and Intune. I'm the author of [SharpSCCM](https://github.com/Mayyhem/SharpSCCM) and [Maestro](https://github.com/Mayyhem/Maestro), co-author of [Misconfiguration Manager](https://github.com/subat0mik/Misconfiguration-Manager) with Duane Michael ([@subat0mik](https://x.com/subat0mik)) and Garrett Foster ([unsigned_sh0rt](https://x.com/unsigned_sh0rt)), and have contributed to a few other offensive security tools, including [SCCM Hunter](https://github.com/garrettfoster13/sccmhunter), [pxethiefy](https://github.com/csandker/pxethiefy), and [SCMKit](https://github.com/h4wkst3r/SCMKit).
+I enjoy writing tools to test the security of configuration management platforms like SCCM and Intune. I'm the author of [SharpSCCM](https://github.com/Mayyhem/SharpSCCM) and [Maestro](https://github.com/Mayyhem/Maestro), co-author of [Misconfiguration Manager](https://github.com/subat0mik/Misconfiguration-Manager) with Duane Michael ([@subat0mik](https://x.com/subat0mik)) and Garrett Foster ([unsigned_sh0rt](https://x.com/unsigned_sh0rt)), and have contributed to a few other offensive security tools, including [SCCM Hunter](https://github.com/garrettfoster13/sccmhunter), [pxethiefy](https://github.com/csandker/pxethiefy), and [SCMKit](https://github.com/h4wkst3r/SCMKit).
 
 <a href="https://twitter.com/_Mayyhem">
   <img src="https://img.shields.io/twitter/follow/_Mayyhem?style=social" alt="@_Mayyhem on Twitter"/>
@@ -16,16 +16,17 @@ I like writing tools to test the security of configuration management platforms 
 
 # My Videos/Talks
 - [Black Hat USA Arsenal 2022: SharpSCCM](https://www.youtube.com/watch?v=19F_Io1Tykg), with Duane Michael ([@subat0mik](https://github.com/subat0mik))
-- DEF CON Demo Labs 2022: SharpSCCM, with Duane Michael ([@subat0mik](https://github.com/subat0mik))
+- DEF CON Demo Labs 2022: SharpSCCM, with Duane Michael ([@subat0mik](https://x.com/subat0mik))
 - [MMSMOA 2023: Hack the Domain with Your Favorite Management Tool](https://mmsmoa.com/), guest speaker with [Sergey Chubarov](https://www.linkedin.com/in/schubarov/) and [Panu Saukko](https://x.com/panusaukko)
 - [Black Hat USA Arsenal 2023: SharpSCCM - Abusing Microsoft's C2 Framework](https://www.youtube.com/watch?v=uyI5rgR0D-s), with Diego Lomellini ([@DiLomSec1](https://x.com/DiLomSec1))
 - [Black Hat USA SpecterOps Booth 2023: SharpSCCM - Abusing Microsoft's C2 Framework](https://www.youtube.com/watch?v=Q8mEMFKscnk), with Diego Lomellini ([@DiLomSec1](https://x.com/DiLomSec1)]
-- [SO-CON 2024: Misconfiguration Manager - Overlooked and Overprivileged](https://www.youtube.com/watch?v=nvaOszFzXCQ), with Duane Michael ([@subat0mik](https://github.com/subat0mik))
+- [SO-CON 2024: Misconfiguration Manager - Overlooked and Overprivileged](https://www.youtube.com/watch?v=nvaOszFzXCQ), with Duane Michael ([@subat0mik](https://x.com/subat0mik))
 - [MMSMOA 2024: Defending the Castle, 5 Years Later](https://mmsmoa.com/), guest speaker with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
-- [Troopers 2024: Misconfiguration Manager - Overlooked and Overprivileged](https://www.youtube.com/watch?v=GhT6nPes1h0), with Duane Michael ([@subat0mik](https://github.com/subat0mik))
+- [Troopers 2024: Misconfiguration Manager - Overlooked and Overprivileged](https://www.youtube.com/watch?v=GhT6nPes1h0), with Duane Michael ([@subat0mik](https://x.com/subat0mik))
 - [DEF CON Demo Labs 2024: Maestro - Abusing Intune for Lateral Movement Over C2](https://docs.google.com/presentation/d/1TGl-ASNo-1jXMOha9yd1CdPI-zCMt2UP/edit?usp=sharing&ouid=114582824289521319309&rtpof=true&sd=true)
 - [MMS Flamingo Edition 2024: Defending the Castle, 5 Years Later](https://mmsmoa.com/), guest speaker with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
 - [MMS Flamingo Edition 2024: Defense Against the Dark Arts, Stealing ConfigMgr Credentials](https://drive.google.com/file/d/1YDJM2khcQDRubgOGM8kxiBLCoetAk7vS/view?usp=sharing), with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
+- [SO-CON 2025: The Admin's Guide to Preventing SCCM Attacks](https://www.youtube.com/watch?v=Rc2J6fmhcJ4), with Garrett Foster ([@unsigned_sh0rt](https://x.com/unsigned_sh0rt))
 
 
 
