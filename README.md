@@ -1,3 +1,9 @@
+## Pinned Repos
+- https://github.com/Mayyhem/SharpSCCM
+- https://github.com/Mayyhem/Maestro
+- https://github.com/subat0mik/Misconfiguration-Manager
+- https://github.com/garrettfoster13/sccmhunter
+
 ## Hi there 👋
 I'm Chris. I'm currently a Senior Security Researcher at [SpecterOps](https://specterops.io) focusing on adding new attack paths and features to [BloodHound](https://specterops.io/bloodhound-community-edition/) and [BloodHound Enterprise](https://specterops.io/bloodhound-overview/). Before that I was a Principal Consultant on the Adversary Simulation team, leading and conducting red team operations and pentests.
 
