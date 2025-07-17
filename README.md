@@ -34,6 +34,7 @@ I enjoy writing tools to test the security of configuration management platforms
 - [MMS Flamingo Edition 2024: Defense Against the Dark Arts, Stealing ConfigMgr Credentials](https://drive.google.com/file/d/1YDJM2khcQDRubgOGM8kxiBLCoetAk7vS/view?usp=sharing), with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
 - [SO-CON 2025: The Admin's Guide to Preventing SCCM Attacks](https://www.youtube.com/watch?v=Rc2J6fmhcJ4), with Garrett Foster ([@unsigned_sh0rt](https://x.com/unsigned_sh0rt))
 
-
+# Public Coordinated Disclosures
+- Microsoft Online Services (Feb 29, 2024): [Getting Intune with Bugs and Tokens: A Journey Through EPM](https://posts.specterops.io/getting-intune-with-bugs-and-tokens-a-journey-through-epm-013b431e7f49), with Zach Stein ([@synzack21](https://twitter.com/synzack21)), Duane Michael ([@subat0mik](https://twitter.com/subat0mik)), and Garrett Foster ([@unsigned_sh0rt](https://x.com/unsigned_sh0rt))
 
 If you're interested in collaborating, please hit me up on Twitter ([@_Mayyhem](https://twitter.com/_Mayyhem)) or in the [BloodHoundGang Slack](http://ghst.ly/BHSlack)!
