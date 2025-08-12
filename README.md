@@ -14,12 +14,16 @@ I enjoy writing tools to test the security of configuration management platforms
   <img src="https://img.shields.io/twitter/follow/_Mayyhem?style=social" alt="@_Mayyhem on Twitter"/>
 </a>
 
-# My Research
+# My Research and Blog Posts
 - [Coercing NTLM Authentication from SCCM](https://medium.com/specter-ops-posts/coercing-ntlm-authentication-from-sccm-e6e23ea8260a)
 - [Relaying NTLM Authentication from SCCM Clients](https://medium.com/specter-ops-posts/relaying-ntlm-authentication-from-sccm-clients-7dccb8f92867)
 - [SCCM Site Takeover via Automatic Client Push Installation](https://medium.com/specter-ops-posts/sccm-site-takeover-via-automatic-client-push-installation-f567ec80d5b1)
 - [SCCM Hierarchy Takeover](https://posts.specterops.io/sccm-hierarchy-takeover-41929c61e087)
 - [Hierarchy Takeover without SOCKS](https://twitter.com/_Mayyhem/status/1700602445603209236)
+- [Rooting Out Risky SCCM Configs with Misconfiguration Manager](https://posts.specterops.io/rooting-out-risky-sccm-configs-with-misconfiguration-manager-0beecaab1af3)
+- [Maestro: Abusing Intune for Lateral Movement Over C2](https://posts.specterops.io/maestro-9ed71d38d546)
+- [Do You Own Your Permissions, Or Do Your Permissions Own You?](https://specterops.io/blog/2025/03/26/do-you-own-your-permissions-or-do-your-permissions-own-you/)
+- [Adding MSSQL to BloodHound with OpenGraph](https://specterops.io/blog/2025/08/04/adding-mssql-to-bloodhound-with-opengraph/)
 
 # My Videos/Talks
 - [Black Hat USA Arsenal 2022: SharpSCCM](https://www.youtube.com/watch?v=19F_Io1Tykg), with Duane Michael ([@subat0mik](https://github.com/subat0mik))
@@ -37,5 +41,6 @@ I enjoy writing tools to test the security of configuration management platforms
 
 # Public Coordinated Disclosures
 - Microsoft Online Services (Feb 29, 2024): [Getting Intune with Bugs and Tokens: A Journey Through EPM](https://posts.specterops.io/getting-intune-with-bugs-and-tokens-a-journey-through-epm-013b431e7f49), with Zach Stein ([@synzack21](https://twitter.com/synzack21)), Duane Michael ([@subat0mik](https://twitter.com/subat0mik)), and Garrett Foster ([@unsigned_sh0rt](https://x.com/unsigned_sh0rt))
+- Microsoft SQL Server Elevation of Privilege (Aug 12, 2025): [CVE-2025-49758](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49758)
 
 If you're interested in collaborating, please hit me up on Twitter ([@_Mayyhem](https://twitter.com/_Mayyhem)) or in the [BloodHoundGang Slack](http://ghst.ly/BHSlack)!
