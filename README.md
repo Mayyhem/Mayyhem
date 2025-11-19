@@ -42,5 +42,6 @@ I enjoy writing tools to test the security of configuration management platforms
 # Public Coordinated Disclosures
 - Microsoft Online Services (Feb 29, 2024): [Getting Intune with Bugs and Tokens: A Journey Through EPM](https://posts.specterops.io/getting-intune-with-bugs-and-tokens-a-journey-through-epm-013b431e7f49), with Zach Stein ([@synzack21](https://twitter.com/synzack21)), Duane Michael ([@subat0mik](https://twitter.com/subat0mik)), and Garrett Foster ([@unsigned_sh0rt](https://x.com/unsigned_sh0rt))
 - Microsoft SQL Server Elevation of Privilege (Aug 12, 2025): [CVE-2025-49758](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49758)
+- Microsoft Configuration Manager Elevation of Privilege (November 11, 2025): [CVE-2025-47179](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47179)
 
 If you're interested in collaborating, please hit me up on Twitter ([@_Mayyhem](https://twitter.com/_Mayyhem)) or in the [BloodHoundGang Slack](http://ghst.ly/BHSlack)!
