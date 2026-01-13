@@ -28,7 +28,6 @@ I enjoy writing tools to test the security of configuration management platforms
 - [Coercing NTLM Authentication from SCCM](https://medium.com/specter-ops-posts/coercing-ntlm-authentication-from-sccm-e6e23ea8260a)
 
 # My Videos/Talks (newest first)
-- 
 - [SO-CON 2025: The Admin's Guide to Preventing SCCM Attacks](https://www.youtube.com/watch?v=Rc2J6fmhcJ4), with Garrett Foster ([@unsigned_sh0rt](https://x.com/unsigned_sh0rt))
 - [MMS Flamingo Edition 2024: Defense Against the Dark Arts, Stealing ConfigMgr Credentials](https://drive.google.com/file/d/1YDJM2khcQDRubgOGM8kxiBLCoetAk7vS/view?usp=sharing), with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
 - [MMS Flamingo Edition 2024: Defending the Castle, 5 Years Later](https://mmsmoa.com/), guest speaker with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
