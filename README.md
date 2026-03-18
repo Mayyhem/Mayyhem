@@ -29,6 +29,7 @@ I enjoy writing tools to test the security of configuration management platforms
 
 # My Videos/Talks (newest first)
 - [BloodHound OpenGraph](https://www.youtube.com/watch?v=xOBqbN0d0qQ), guest of John Hammond ([@_JohnHammond](https://x.com/_JohnHammond)) with Justin Kohler ([@JustinKohler10](https://x.com/JustinKohler10))
+- [IT Defense: Exposing SCCM and MSSQL Attack Paths with BloodHound](https://www.it-defense.de/en/it-defense-2026/conference)
 - [SO-CON 2025: The Admin's Guide to Preventing SCCM Attacks](https://www.youtube.com/watch?v=Rc2J6fmhcJ4), with Garrett Foster ([@unsigned_sh0rt](https://x.com/unsigned_sh0rt))
 - [Detection: Challenging Paradigms](https://open.spotify.com/episode/4eVrJBuldwwNoQgyxRw4tu?si=a83f23a24a9b410b), with Jared Atkinson ([@jaredcatkinson](https://x.com/jaredcatkinson)) and Luke Paine ([@v3r5ace](https://x.com/v3r5ace))
 - [MMS Flamingo Edition 2024: Defense Against the Dark Arts, Stealing ConfigMgr Credentials](https://drive.google.com/file/d/1YDJM2khcQDRubgOGM8kxiBLCoetAk7vS/view?usp=sharing), with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
