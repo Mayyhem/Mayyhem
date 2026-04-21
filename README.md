@@ -19,7 +19,6 @@ I enjoy writing tools to test the security of configuration management platforms
 - [Ludus SCCM Lab Expansion](https://specterops.io/blog/2026/04/01/ludus-sccm-lab-expansion/)
 - [Introducing ConfigManBearPig, a BloodHound OpenGraph Collector for SCCM](https://specterops.io/blog/2026/01/13/introducing-configmanbearpig-a-bloodhound-opengraph-collector-for-sccm/)
 - [MSSQL and SCCM Elevation of Privilege Vulnerabilities](https://specterops.io/blog/2026/01/15/mssql-and-sccm-elevation-of-privilege-vulnerabilities/)
-- [Going for Broke(ring) - Offensive Walkthrough for Nested App Authentication](https://specterops.io/blog/2025/08/13/going-for-brokering-offensive-walkthrough-for-nested-app-authentication/)
 - [Adding MSSQL to BloodHound with OpenGraph](https://specterops.io/blog/2025/08/04/adding-mssql-to-bloodhound-with-opengraph/)
 - [Do You Own Your Permissions, Or Do Your Permissions Own You?](https://specterops.io/blog/2025/03/26/do-you-own-your-permissions-or-do-your-permissions-own-you/)
 - [Maestro: Abusing Intune for Lateral Movement Over C2](https://posts.specterops.io/maestro-9ed71d38d546)
