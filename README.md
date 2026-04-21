@@ -28,6 +28,8 @@ I enjoy writing tools to test the security of configuration management platforms
 - [Coercing NTLM Authentication from SCCM](https://medium.com/specter-ops-posts/coercing-ntlm-authentication-from-sccm-e6e23ea8260a)
 
 # My Videos/Talks (newest first)
+- SO-CON 2026: Exposing Hidden Attack Paths in SCCM and MSSQL with BloodHound OpenGraph
+- SO-CON 2026: Build Your Own OpenGraph Collector Workshop, with Mat Soulnier ([@ScoubiMtl](https://x.com/ScoubiMtl))
 - [BloodHound OpenGraph](https://www.youtube.com/watch?v=xOBqbN0d0qQ), guest of John Hammond ([@_JohnHammond](https://x.com/_JohnHammond)) with Justin Kohler ([@JustinKohler10](https://x.com/JustinKohler10))
 - [IT Defense: Exposing SCCM and MSSQL Attack Paths with BloodHound](https://www.it-defense.de/en/it-defense-2026/conference)
 - [SO-CON 2025: The Admin's Guide to Preventing SCCM Attacks](https://www.youtube.com/watch?v=Rc2J6fmhcJ4), with Garrett Foster ([@unsigned_sh0rt](https://x.com/unsigned_sh0rt))
@@ -35,6 +37,7 @@ I enjoy writing tools to test the security of configuration management platforms
 - [MMS Flamingo Edition 2024: Defense Against the Dark Arts, Stealing ConfigMgr Credentials](https://drive.google.com/file/d/1YDJM2khcQDRubgOGM8kxiBLCoetAk7vS/view?usp=sharing), with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
 - [MMS Flamingo Edition 2024: Defending the Castle, 5 Years Later](https://mmsmoa.com/), guest speaker with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
 - [DEF CON Demo Labs 2024: Maestro - Abusing Intune for Lateral Movement Over C2](https://docs.google.com/presentation/d/1TGl-ASNo-1jXMOha9yd1CdPI-zCMt2UP/edit?usp=sharing&ouid=114582824289521319309&rtpof=true&sd=true)
+- [DEF CON Workshops 2024: Offensive SCCM - Abusing Microsoft's C2 Framework](https://defcon.org/html/defcon-32/dc-32-workshops.html), with Duane Michael ([@subat0mik](https://x.com/subat0mik)) and Garrett Foster ([@unsigned_sh0rt](https://x.com/unsigned_sh0rt))
 - [Troopers 2024: Misconfiguration Manager - Overlooked and Overprivileged](https://www.youtube.com/watch?v=GhT6nPes1h0), with Duane Michael ([@subat0mik](https://x.com/subat0mik))
 - [MMSMOA 2024: Defending the Castle, 5 Years Later](https://mmsmoa.com/), guest speaker with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
 - [SO-CON 2024: Misconfiguration Manager - Overlooked and Overprivileged](https://www.youtube.com/watch?v=nvaOszFzXCQ), with Duane Michael ([@subat0mik](https://x.com/subat0mik))
