@@ -16,6 +16,7 @@ I enjoy writing tools to test the security of configuration management platforms
 </a>
 
 # My Research and Blog Posts (newest first)
+- [MSSQLHound Now Available in Go](https://specterops.io/blog/2026/04/23/mssqlhound-now-available-in-go/)
 - [Ludus SCCM Lab Expansion](https://specterops.io/blog/2026/04/01/ludus-sccm-lab-expansion/)
 - [Introducing ConfigManBearPig, a BloodHound OpenGraph Collector for SCCM](https://specterops.io/blog/2026/01/13/introducing-configmanbearpig-a-bloodhound-opengraph-collector-for-sccm/)
 - [MSSQL and SCCM Elevation of Privilege Vulnerabilities](https://specterops.io/blog/2026/01/15/mssql-and-sccm-elevation-of-privilege-vulnerabilities/)
