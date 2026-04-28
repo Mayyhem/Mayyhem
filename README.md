@@ -32,7 +32,7 @@ I enjoy writing tools to test the security of configuration management platforms
 
 # My Videos/Talks (newest first)
 - SO-CON 2026: Exposing Hidden Attack Paths in SCCM and MSSQL with BloodHound OpenGraph
-- SO-CON 2026: Build Your Own OpenGraph Collector Workshop, with Mat Soulnier ([@ScoubiMtl](https://x.com/ScoubiMtl))
+- [SO-CON 2026: Build Your Own OpenGraph Collector Workshop](https://github.com/Mayyhem/OpenGraphWorkshop), with Mat Soulnier ([@ScoubiMtl](https://x.com/ScoubiMtl))
 - [BloodHound OpenGraph](https://www.youtube.com/watch?v=xOBqbN0d0qQ), guest of John Hammond ([@_JohnHammond](https://x.com/_JohnHammond)) with Justin Kohler ([@JustinKohler10](https://x.com/JustinKohler10))
 - [IT Defense: Exposing SCCM and MSSQL Attack Paths with BloodHound](https://www.it-defense.de/en/it-defense-2026/conference)
 - [SO-CON 2025: The Admin's Guide to Preventing SCCM Attacks](https://www.youtube.com/watch?v=Rc2J6fmhcJ4), with Garrett Foster ([@unsigned_sh0rt](https://x.com/unsigned_sh0rt))
