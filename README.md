@@ -16,6 +16,7 @@ I enjoy writing tools to test the security of configuration management platforms
 </a>
 
 # My Research and Blog Posts (newest first)
+- [ConfigManBearPig 2.0 – Things Are Getting Cereal](https://specterops.io/blog/2026/08/03/configmanbearpig-2-0/)
 - [MSSQLHound Now Available in Go](https://specterops.io/blog/2026/04/23/mssqlhound-now-available-in-go/)
 - [Ludus SCCM Lab Expansion](https://specterops.io/blog/2026/04/01/ludus-sccm-lab-expansion/)
 - [Introducing ConfigManBearPig, a BloodHound OpenGraph Collector for SCCM](https://specterops.io/blog/2026/01/13/introducing-configmanbearpig-a-bloodhound-opengraph-collector-for-sccm/)
@@ -31,7 +32,9 @@ I enjoy writing tools to test the security of configuration management platforms
 - [Coercing NTLM Authentication from SCCM](https://medium.com/specter-ops-posts/coercing-ntlm-authentication-from-sccm-e6e23ea8260a)
 
 # My Videos/Talks (newest first)
-- SO-CON 2026: Exposing Hidden Attack Paths in SCCM and MSSQL with BloodHound OpenGraph
+- [Black Hat USA Arsenal 2026: MSSQLHound - Identify, Visualize, and Navigate MSSQL Attack Paths in BloodHound](https://blackhat.com/us-26/arsenal/schedule/?#mssqlhound---identify-visualize-and-navigate-mssql-attack-paths-in-bloodhound-52181), with [Javier Azofra Ovejero](https://www.linkedin.com/in/azofra/)]
+- [Black Hat USA Arsenal 2026: ConfigManBearPig - Identify, Visualize, and Navigate SCCM Attack Paths in BloodHound](https://blackhat.com/us-26/arsenal/schedule/index.html#configmanbearpig---identify-visualize-and-navigate-sccm-attack-paths-in-bloodhound-52073)
+- [SO-CON 2026: Exposing Hidden Attack Paths in SCCM and MSSQL with BloodHound OpenGraph](https://www.youtube.com/watch?v=vd5UWRBg6ps)
 - [SO-CON 2026: Build Your Own OpenGraph Collector Workshop](https://github.com/Mayyhem/OpenGraphWorkshop), with Mat Soulnier ([@ScoubiMtl](https://x.com/ScoubiMtl))
 - [BloodHound OpenGraph](https://www.youtube.com/watch?v=xOBqbN0d0qQ), guest of John Hammond ([@_JohnHammond](https://x.com/_JohnHammond)) with Justin Kohler ([@JustinKohler10](https://x.com/JustinKohler10))
 - [IT Defense: Exposing SCCM and MSSQL Attack Paths with BloodHound](https://www.it-defense.de/en/it-defense-2026/conference)
