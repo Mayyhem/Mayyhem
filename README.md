@@ -34,6 +34,7 @@ I enjoy writing tools to test the security of configuration management platforms
 # My Videos/Talks (newest first)
 - [Black Hat USA Arsenal 2026: MSSQLHound - Identify, Visualize, and Navigate MSSQL Attack Paths in BloodHound](https://blackhat.com/us-26/arsenal/schedule/?#mssqlhound---identify-visualize-and-navigate-mssql-attack-paths-in-bloodhound-52181), with [Javier Azofra Ovejero](https://www.linkedin.com/in/azofra/)]
 - [Black Hat USA Arsenal 2026: ConfigManBearPig - Identify, Visualize, and Navigate SCCM Attack Paths in BloodHound](https://blackhat.com/us-26/arsenal/schedule/index.html#configmanbearpig---identify-visualize-and-navigate-sccm-attack-paths-in-bloodhound-52073)
+- [MMSMOA 2026: The Admin's Guide to Preventing SCCM Attacks](https://drive.google.com/file/d/1xYA1ktyvoeqi8TRqBYRZyaoctfe6sWqw/view?usp=drive_link), with Tom Degreef ([@TomDegreef](https://x.com/TomDegreef)) and Kim Oppalfens ([@TheWMIGuy](https://x.com/TheWMIGuy))
 - [SO-CON 2026: Exposing Hidden Attack Paths in SCCM and MSSQL with BloodHound OpenGraph](https://www.youtube.com/watch?v=vd5UWRBg6ps)
 - [SO-CON 2026: Build Your Own OpenGraph Collector Workshop](https://github.com/Mayyhem/OpenGraphWorkshop), with Mat Soulnier ([@ScoubiMtl](https://x.com/ScoubiMtl))
 - [BloodHound OpenGraph](https://www.youtube.com/watch?v=xOBqbN0d0qQ), guest of John Hammond ([@_JohnHammond](https://x.com/_JohnHammond)) with Justin Kohler ([@JustinKohler10](https://x.com/JustinKohler10))
