@@ -3,6 +3,7 @@
 - https://github.com/SpecterOps/MSSQLHound
 - https://github.com/subat0mik/Misconfiguration-Manager
 - https://github.com/Mayyhem/SharpSCCM
+- https://github.com/Mayyhem/ludus_sccm
 - https://github.com/Mayyhem/Maestro
 - https://github.com/garrettfoster13/sccmhunter
 
